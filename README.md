@@ -6,9 +6,11 @@ Adından da anlaşılabileceği üzere kelime bulutudur da diyebiliriz. İstedi�
 
 ## Bazı Örnekler
 * Harry Potter'daki seçmen şapka :
+
 ![Sorting Hat](https://github.com/semihstp/Wordcloud-stylecloud_Projects/blob/main/wordcloud_images/sorting_hat_with_contour.png?raw=true)
 
 * Hermonie :
+
 ![Hermonie](https://github.com/semihstp/Wordcloud-stylecloud_Projects/blob/main/wordcloud_images/hermonie_with_color.png?raw=true)
 
 
